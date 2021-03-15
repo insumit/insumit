@@ -27,7 +27,7 @@ const sumit = {
   Platforms: [
     "Windows", "Linux", "MacOS", "Android", "iOS", "Node.js"
   ],
-  currentFocus: "Comptetive Programming using C++",
+  currentFocus: "Competitive Programming using C++",
   funFact:
     "The root is at the top of the tree",
 };
